@@ -1,5 +1,5 @@
 [package]
-name = "axon"
+name = "axon-rs"
 version = "0.1.0"
 authors = ["jason ridgway-taylor <jason@glottologist.co.uk>"]
 edition = "2018"
