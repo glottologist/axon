@@ -3,8 +3,13 @@ name = "axon-rs"
 version = "0.1.0"
 authors = ["jason ridgway-taylor <jason@glottologist.co.uk>"]
 edition = "2018"
+license-file = "LICENSE"
+description = "A port of Neuron command line zettelkasten app to Rust from Haskell with additional features"
+homepage = "https://github.com/glottologist/axon"
+documentation = "https://docs.rs/axon-rs"
+repository = "https://github.com/glottologist/axon/"
+readme = "README.md"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 structopt = "0.2"
