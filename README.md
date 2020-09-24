@@ -6,7 +6,8 @@
 [![Crates.io](https://img.shields.io/crates/v/axon-rs?style=flat-square)](https://crates.io/crates/axon-rs)
 [![Crates.io](https://img.shields.io/crates/d/axon-rs?style=flat-square)](https://crates.io/crates/axon-rs)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](https://github.com/glottologist/axon/blob/master/LICENSE)
-
+[![Zulip chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://glottologist.zulipchat.com/#narrow/stream/258643-axon-rs)
+[![Matrix chat](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#axon:matrix.org)
 
 
 Port of Neuron from Haskell to Rust with additional features
